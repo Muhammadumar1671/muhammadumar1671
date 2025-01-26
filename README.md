@@ -68,7 +68,7 @@ I'm a Full Stack Developer passionate about building intelligent, efficient, and
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadumar1671&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=muhammadumar1671&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadumar1671&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect!
