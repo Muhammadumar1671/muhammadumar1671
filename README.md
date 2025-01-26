@@ -52,23 +52,23 @@ I'm a Full Stack Developer passionate about building intelligent, efficient, and
 - **AI-Powered Educational Platform**
   - Developing offline educational models for personalized learning
   - Features: Smart quizzes, video recommendations, and interactive Q&A
-  - Tech: PyTorch, React, Node.js
+  - Tech: PyTorch, Django, React, Node.js
 
 - **Medical Emotion Analysis Chatbot**
   - Creating an empathetic medical assistant
   - Natural language processing for emotion detection
-  - Tech: TensorFlow, GraphQL, MongoDB
+  - Tech: TensorFlow, Django, GraphQL, MongoDB
 
 - **SEO Analyzer Tool**
   - Building a comprehensive SEO analysis platform
   - Real-time performance metrics and optimization suggestions
-  - Tech: Next.js, Python, PostgreSQL
+  - Tech: FastAPI, Django, Next.js, PostgreSQL
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumar1671&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar1671&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect!
@@ -81,7 +81,7 @@ I'm always interested in collaborating on innovative projects and discussing new
 - 🌱 Share knowledge and learn together
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadumar1671&color=blue" alt="Profile Views" />
 </div>
 
 ---
