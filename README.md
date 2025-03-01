@@ -62,11 +62,6 @@ I'm a Full Stack Developer passionate about building intelligent, efficient, and
   - Real-time performance metrics and optimization suggestions
   - Tech: FastAPI, Django, Next.js, PostgreSQL
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username" />
-</div>
 
 ## 🤝 Let's Connect!
 
@@ -77,9 +72,6 @@ I'm always interested in collaborating on innovative projects and discussing new
 - 💬 Discuss AI and technology trends
 - 🌱 Share knowledge and learn together
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadumar1671&theme=tokyonight" />
-</div>
 
 ---
 <div align="center">
