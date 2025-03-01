@@ -78,7 +78,7 @@ I'm always interested in collaborating on innovative projects and discussing new
 - 🌱 Share knowledge and learn together
 
 <div align="center">
-![GitHub Stats](https://img.shields.io/github/followers/muhammadumar1671?label=Followers&style=social)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadumar1671&theme=tokyonight" />
 </div>
 
 ---
