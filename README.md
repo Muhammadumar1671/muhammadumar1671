@@ -65,7 +65,7 @@ I'm a Full Stack Developer passionate about building intelligent, efficient, and
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumar1671&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadumar1671&show_icons=true&theme=tokyonight&cache_seconds=1800&token=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" alt="GitHub Stats" />
 </div>
 
 ## 🤝 Let's Connect!
