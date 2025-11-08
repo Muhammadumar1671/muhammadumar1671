@@ -72,12 +72,14 @@ I'm always interested in collaborating on innovative projects and discussing new
 - 💬 Discuss AI and technology trends
 - 🌱 Share knowledge and learn together
 
-## 📈 GitHub Stats
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumar1671&bg_color=0d1117&color=3584E3&line=3584E3&point=ffffff&area=true&hide_border=true" alt="Umar's GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumar2002&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar2002&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar2002&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </div>
-
 
 ---
 <div align="center">
