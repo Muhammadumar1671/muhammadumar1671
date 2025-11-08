@@ -75,7 +75,7 @@ I'm always interested in collaborating on innovative projects and discussing new
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumar2002&bg_color=0d1117&color=3584E3&line=3584E3&point=ffffff&area=true&hide_border=true" alt="Umar's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumar1671&bg_color=0d1117&color=3584E3&line=3584E3&point=ffffff&area=true&hide_border=true" alt="Umar's GitHub Activity Graph" />
 </div>
 
 
