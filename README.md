@@ -72,14 +72,6 @@ I'm always interested in collaborating on innovative projects and discussing new
 - 💬 Discuss AI and technology trends
 - 🌱 Share knowledge and learn together
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumar1671&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar1671&theme=tokyonight&hide_border=true" height="180em" />
-</div>
-
 ---
 <div align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
