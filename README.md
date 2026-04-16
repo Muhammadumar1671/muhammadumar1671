@@ -65,11 +65,12 @@ team-scoped permissions, QA tooling, and a UI that stays fast with
 
 <td width="50%" valign="top">
 
-### 🌐 [Dial Loom Frontend](https://github.com/Veeivs/dial_loom_backend)
-Next.js 16 agent UI. Real-time events via SSE, shadcn/ui components,
-PostHog analytics, and push notifications. Ships a full in-browser flow.
+### 🪄 [Authority Wizard](https://github.com/Faizan141-coder/authority-wizard)
+Full-stack content-authority tool. Django REST backend, Next.js
+frontend, and an admin dashboard that turns raw analysis output into
+something a non-engineer can act on.
 
-<sub>`Next.js 16` · `React 19` · `TypeScript` · `Tailwind v4` · `shadcn/ui`</sub>
+<sub>`Django` · `DRF` · `Next.js` · `TypeScript` · `Tailwind`</sub>
 
 </td>
 
@@ -117,7 +118,6 @@ and Alembic migrations. Clean schema, explicit contracts, easy to deploy.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **Authority Wizard** | Content authority analyzer with admin dashboard | `Next.js` · `Django` |
 | **Budget Handler** | Personal finance app + Django auto-CRUD template generator | `Django` · `Next.js` |
 | **Rork Pulse** | Live-reactions feature layer for native mobile apps | `React Native` · `Expo` |
 | **Daily Brief** | Personalized morning briefing web app | `Vite` · `React` |
