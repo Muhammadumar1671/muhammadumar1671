@@ -2,7 +2,7 @@
 
 <!-- Hero -->
 <a href="https://github.com/Muhammadumar1671">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&height=50&lines=Hey%2C+I'm+Umar.;Full-stack+engineer.;I+ship+telephony%2C+AI+%26+fintech+products." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&height=50&lines=Hey%2C+I'm+Umar.;Full-stack+developer.;I+build+things+end-to-end%2C+from+schema+to+UI." alt="typing" />
 </a>
 
 <br/>
@@ -19,18 +19,17 @@
 
 ```ts
 const umar = {
-  role:      "Full-stack engineer",
+  role:      "Full-stack developer",
   stack:     ["Python", "Django", "TypeScript", "Next.js", "React", "Postgres"],
-  specialty: ["Real-time telephony", "Agent/AI systems", "B2B SaaS"],
-  current:   "Building a cloud dialer platform at scale",
+  interests: ["Web apps", "APIs", "Mobile", "Dev tooling", "Clean UI"],
+  current:   "Shipping production web & mobile products across the stack",
   timezone:  "PKT  ·  UTC+05:00",
 }
 ```
 
-I like systems that have to stay up — WebSocket fan-out, Twilio/Plivo call flows,
-Redis-backed availability, Celery queues, and the admin surfaces that make all of
-that legible to humans. When I'm not on those, I'm usually building something
-small and weird for the fun of it.
+All-rounder — comfortable writing a Postgres migration, a background worker,
+a REST/GraphQL API, and the React component that consumes it. I like code
+that's readable on a Monday morning and infra I can see in a log.
 
 ---
 
@@ -42,20 +41,20 @@ small and weird for the fun of it.
 <td width="50%" valign="top">
 
 ### 📞 [Dial Loom](https://github.com/Veeivs/dial_loom_backend)
-**Cloud dialer platform.** Django 5.1 + DRF backend powering multi-carrier
-outbound/inbound calling, live agent status, silent-listener monitoring,
-conference recording, and disposition tracking.
+Full-stack SaaS platform — Django 5.1 + DRF backend, Next.js agent UI,
+real-time availability, background jobs, admin surfaces, and a proper
+permissions system.
 
-<sub>`Django 5.1` · `Channels` · `Celery` · `Redis` · `Twilio` · `Plivo` · `Postgres`</sub>
+<sub>`Django 5.1` · `Channels` · `Celery` · `Redis` · `Postgres`</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🎛️ [Call Loom Dashboard](https://github.com/Veeivs/Callloom-Frontend-Dashboard)
-**Admin console** for the dialer. Agent-status board, live call monitoring,
-team-scoped permissions, QA tooling, SMS/A2P brand management, and a
-dashboard that actually renders 500 rows without blinking.
+Admin console built with Vite + React + Redux. Data-dense tables,
+team-scoped permissions, QA tooling, and a UI that stays fast with
+500+ rows on screen.
 
 <sub>`Vite` · `React` · `Redux` · `Tailwind` · `JWT` · `SSE`</sub>
 
@@ -67,9 +66,8 @@ dashboard that actually renders 500 rows without blinking.
 <td width="50%" valign="top">
 
 ### 🌐 [Dial Loom Frontend](https://github.com/Veeivs/dial_loom_backend)
-**Next.js 16 agent UI.** In-browser softphone (Twilio Voice SDK), live
-disposition flow, real-time availability via SSE, PostHog analytics,
-and push notifications.
+Next.js 16 agent UI. Real-time events via SSE, shadcn/ui components,
+PostHog analytics, and push notifications. Ships a full in-browser flow.
 
 <sub>`Next.js 16` · `React 19` · `TypeScript` · `Tailwind v4` · `shadcn/ui`</sub>
 
@@ -78,11 +76,10 @@ and push notifications.
 <td width="50%" valign="top">
 
 ### 📚 [BookNao](https://github.com/Muhammadumar1671/booknao)
-**AI-powered book companion.** Landing + native app pairing with
-LLM-driven reading tools, personal library sync, and a marketing site
-that loads in under a second.
+Landing site + React Native companion app. Marketing pages tuned for
+performance, and a cross-platform mobile client sharing the brand.
 
-<sub>`Next.js` · `React Native` · `Expo` · `OpenAI`</sub>
+<sub>`Next.js` · `React Native` · `Expo`</sub>
 
 </td>
 
@@ -91,21 +88,20 @@ that loads in under a second.
 
 <td width="50%" valign="top">
 
-### 🧾 [BookKeeping AI](https://github.com/EricTechPro/BookKeepingApp)
-**AI bookkeeping for SMBs.** Drag-and-drop receipts → Gemini OCR →
-auto-match against bank statements with a confidence score. Ships with
-100% task coverage and Lighthouse CI.
+### 🧾 [BookKeeping App](https://github.com/EricTechPro/BookKeepingApp)
+Modern web app for small-business bookkeeping. Drag-and-drop uploads,
+Supabase auth + storage, serverless edge functions, and Lighthouse-CI
+gated deploys.
 
-<sub>`Next.js 14` · `Supabase` · `Gemini 2.0` · `Deno Edge`</sub>
+<sub>`Next.js 14` · `Supabase` · `Deno Edge` · `Tailwind`</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🔎 [People Lookup](https://github.com/Veeivs/peoplelookup)
-**High-throughput gRPC lookup service.** Postgres + Redis-backed,
-Alembic-managed schema, ZIP-code indexing, and a deployable FastAPI
-façade for REST clients.
+Service layer — FastAPI + gRPC on top of Postgres with Redis caching
+and Alembic migrations. Clean schema, explicit contracts, easy to deploy.
 
 <sub>`FastAPI` · `gRPC` · `Postgres` · `Redis` · `Alembic`</sub>
 
@@ -121,11 +117,10 @@ façade for REST clients.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **Authority Wizard** | Content authority analyzer for publishers | `Next.js` · `Django` |
-| **Budget Handler** | Personal finance + Django auto-CRUD template generator | `Django` · `Next.js` |
-| **Rork Pulse** | Live-reactions layer for native mobile apps | `React Native` · `Expo` |
-| **Daily Brief** | Personalized morning briefing generator | `Lovable` · `Vite` |
-| **GitHub Bot** | Scheduled contribution-streak bot with logging | `Python` · `Schedule` |
+| **Authority Wizard** | Content authority analyzer with admin dashboard | `Next.js` · `Django` |
+| **Budget Handler** | Personal finance app + Django auto-CRUD template generator | `Django` · `Next.js` |
+| **Rork Pulse** | Live-reactions feature layer for native mobile apps | `React Native` · `Expo` |
+| **Daily Brief** | Personalized morning briefing web app | `Vite` · `React` |
 | **Heart** | A small Valentine's web toy. Because why not. | `HTML` · `JS` |
 
 </details>
@@ -142,21 +137,25 @@ façade for REST clients.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0a0a" />
 
 **Backend**
 <br/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/Channels-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a0a" />
 
 **Frontend**
 <br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=0a0a0a" />
@@ -169,26 +168,16 @@ façade for REST clients.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0a0a0a" />
-
-**Telephony · AI · Payments**
-<br/>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Plivo-00A0DF?style=for-the-badge&logo=plivo&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a" />
 
 </div>
 
 ---
 
-## 📊 GitHub, at a glance
+## 📊 Activity
 
 <div align="center">
 
-<a href="https://github.com/Muhammadumar1671">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammadumar1671&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=22c55e&text_color=e4e4e7&bg_color=0a0a0a" />
-</a>
 <a href="https://github.com/Muhammadumar1671">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadumar1671&hide_border=true&layout=compact&langs_count=8&title_color=8B5CF6&text_color=e4e4e7&bg_color=0a0a0a" />
 </a>
@@ -218,6 +207,6 @@ façade for REST clients.
 <a href="https://github.com/Muhammadumar1671"><img src="https://img.shields.io/badge/GitHub-Muhammadumar1671-18181b?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" /></a>
 
 <br/>
-<sub>Open to: contract work on telephony / AI infra · interesting collaborations · a good debugging story.</sub>
+<sub>Open to: full-stack contract work · interesting collaborations · a good debugging story.</sub>
 
 </div>
